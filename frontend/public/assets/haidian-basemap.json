@@ -1,0 +1,25 @@
+{
+  "centerWgs84": {
+    "lat": 39.974702,
+    "lon": 116.311445
+  },
+  "areaMeters": {
+    "width": 3500.0,
+    "height": 3500.0
+  },
+  "simulationBounds": {
+    "minX": -1200,
+    "maxX": 2300,
+    "minY": -1333,
+    "maxY": 2167
+  },
+  "source": "beijing-260731.osm.pbf",
+  "attribution": "© OpenStreetMap contributors",
+  "featureCounts": {
+    "roads": 2028,
+    "buildings": 1967,
+    "water": 11,
+    "green": 274,
+    "rail": 78
+  }
+}
